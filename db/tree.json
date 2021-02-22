@@ -1,0 +1,30 @@
+{
+  "_updatedAt": "2021-02-22T18:28:49.267Z",
+  "c": {
+    "_updatedAt": "2021-02-22T18:28:49.267Z",
+    "adt": {
+      "_updatedAt": "2021-02-22T18:28:49.267Z",
+      "fraction": {
+        "_isProject": true,
+        "_updatedAt": "2021-02-22T18:28:49.267Z",
+        "_files": {
+          "_content": [
+            "CMakeLists.txt",
+            "fraction.c",
+            "fraction.h",
+            "fraction.zip",
+            "main.c"
+          ],
+          "testDir": {
+            "_content": [
+              "some.txt"
+            ],
+            "emptyDir": {
+              "_content": []
+            }
+          }
+        }
+      }
+    }
+  }
+}
