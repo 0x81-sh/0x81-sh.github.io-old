@@ -1,7 +1,7 @@
 {
-  "_updatedAt": "2021-02-22T19:25:19.481Z",
+  "_updatedAt": "2021-02-22T19:29:41.956Z",
   "c": {
-    "_updatedAt": "2021-02-22T19:25:19.481Z",
+    "_updatedAt": "2021-02-22T19:29:41.956Z",
     "adt": {
       "_updatedAt": "2021-02-22T19:25:19.481Z",
       "fraction": {
@@ -21,6 +21,91 @@
             ],
             "emptyDir": {
               "_content": []
+            }
+          }
+        }
+      }
+    },
+    "linkedList": {
+      "_updatedAt": "2021-02-22T19:29:41.956Z",
+      "studentList": {
+        "_isProject": true,
+        "_updatedAt": "2021-02-22T19:29:41.956Z",
+        "_files": {
+          "_content": [
+            ".gitignore",
+            "CMakeLists.txt",
+            "main.c"
+          ],
+          "cmake-build-debug-coverage": {
+            "_content": [
+              "CMakeCache.txt",
+              "cmake_install.cmake",
+              "Makefile",
+              "studentList.cbp",
+              "studentList.exe"
+            ],
+            "CMakeFiles": {
+              "_content": [
+                "clion-environment.txt",
+                "clion-log.txt",
+                "cmake.check_cache",
+                "CMakeDirectoryInformation.cmake",
+                "CMakeError.log",
+                "CMakeOutput.log",
+                "Makefile.cmake",
+                "Makefile2",
+                "progress.marks",
+                "TargetDirectories.txt"
+              ],
+              "3.17.5": {
+                "_content": [
+                  "CMakeCCompiler.cmake",
+                  "CMakeDetermineCompilerABI_C.bin",
+                  "CMakeRCCompiler.cmake",
+                  "CMakeSystem.cmake"
+                ],
+                "CompilerIdC": {
+                  "_content": [
+                    "a.exe",
+                    "CMakeCCompilerId.c",
+                    "CMakeCCompilerId.gcno"
+                  ],
+                  "tmp": {
+                    "_content": []
+                  }
+                }
+              },
+              "CMakeTmp": {
+                "_content": []
+              },
+              "studentList.dir": {
+                "_content": [
+                  "build.make",
+                  "C.includecache",
+                  "cmake_clean.cmake",
+                  "depend.internal",
+                  "depend.make",
+                  "DependInfo.cmake",
+                  "flags.make",
+                  "link.txt",
+                  "linklibs.rsp",
+                  "main.c.gcda",
+                  "main.c.gcno",
+                  "main.c.obj",
+                  "objects.a",
+                  "objects1.rsp",
+                  "progress.make"
+                ]
+              }
+            },
+            "Testing": {
+              "_content": [],
+              "Temporary": {
+                "_content": [
+                  "LastTest.log"
+                ]
+              }
             }
           }
         }
