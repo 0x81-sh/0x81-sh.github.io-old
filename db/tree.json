@@ -1,7 +1,7 @@
 {
-  "_updatedAt": "2021-02-22T19:47:43.864Z",
+  "_updatedAt": "2021-02-22T19:48:11.589Z",
   "c": {
-    "_updatedAt": "2021-02-22T19:47:43.864Z",
+    "_updatedAt": "2021-02-22T19:48:11.589Z",
     "adt": {
       "_updatedAt": "2021-02-22T19:39:39.736Z",
       "fraction": {
@@ -63,7 +63,7 @@
       }
     },
     "dynamicMemory": {
-      "_updatedAt": "2021-02-22T19:47:43.864Z",
+      "_updatedAt": "2021-02-22T19:48:11.589Z",
       "readText2": {
         "_isProject": true,
         "_updatedAt": "2021-02-22T19:47:43.864Z",
@@ -73,6 +73,17 @@
             "CMakeLists.txt",
             "main.c",
             "main2.c"
+          ]
+        }
+      },
+      "fraction": {
+        "_isProject": true,
+        "_updatedAt": "2021-02-22T19:48:11.589Z",
+        "_files": {
+          "_content": [
+            ".gitignore",
+            "CMakeLists.txt",
+            "main.c"
           ]
         }
       }
