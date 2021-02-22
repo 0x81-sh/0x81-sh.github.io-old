@@ -1,12 +1,12 @@
 {
-  "_updatedAt": "2021-02-22T19:18:02.671Z",
+  "_updatedAt": "2021-02-22T19:23:03.865Z",
   "c": {
-    "_updatedAt": "2021-02-22T19:18:02.671Z",
+    "_updatedAt": "2021-02-22T19:23:03.865Z",
     "adt": {
-      "_updatedAt": "2021-02-22T19:18:02.671Z",
+      "_updatedAt": "2021-02-22T19:23:03.865Z",
       "fraction": {
         "_isProject": true,
-        "_updatedAt": "2021-02-22T19:18:02.671Z",
+        "_updatedAt": "2021-02-22T19:23:03.865Z",
         "_files": {
           "_content": [
             ".gitignore",
@@ -15,131 +15,6 @@
             "fraction.h",
             "main.c"
           ],
-          ".git": {
-            "_content": [
-              "COMMIT_EDITMSG",
-              "config",
-              "description",
-              "FETCH_HEAD",
-              "HEAD",
-              "index"
-            ],
-            "hooks": {
-              "_content": [
-                "applypatch-msg.sample",
-                "commit-msg.sample",
-                "fsmonitor-watchman.sample",
-                "post-update.sample",
-                "pre-applypatch.sample",
-                "pre-commit.sample",
-                "pre-merge-commit.sample",
-                "pre-push.sample",
-                "pre-rebase.sample",
-                "pre-receive.sample",
-                "prepare-commit-msg.sample",
-                "update.sample"
-              ]
-            },
-            "info": {
-              "_content": [
-                "exclude"
-              ]
-            },
-            "logs": {
-              "_content": [
-                "HEAD"
-              ],
-              "refs": {
-                "_content": [],
-                "heads": {
-                  "_content": [
-                    "master"
-                  ]
-                },
-                "remotes": {
-                  "_content": [],
-                  "origin": {
-                    "_content": [
-                      "master"
-                    ]
-                  }
-                }
-              }
-            },
-            "objects": {
-              "18": {
-                "_content": [
-                  "fb45fb1fc64cd0cb3d60efd30d90c65e98ecaf"
-                ]
-              },
-              "43": {
-                "_content": [
-                  "c26aa0fbcc493e2675b23fdb4ceeff2b7e36a1"
-                ]
-              },
-              "58": {
-                "_content": [
-                  "8b30cd513edddfcf502cbee496896fe3f7d7f1"
-                ]
-              },
-              "62": {
-                "_content": [
-                  "71e727342612c6ae0abe29574d6f10e9a33c41"
-                ]
-              },
-              "71": {
-                "_content": [
-                  "ba7cdb8b2a4613e7ad40fb8c360f0eff461c65"
-                ]
-              },
-              "_content": [],
-              "0d": {
-                "_content": [
-                  "0a5a7c1f878713d788ee9f2622cb7a379fa700"
-                ]
-              },
-              "e2": {
-                "_content": [
-                  "7ed401afc57af9c006aefd8f044f7881b0e665"
-                ]
-              },
-              "e6": {
-                "_content": [
-                  "9de29bb2d1d6434b8b29ae775ad8c2e48c5391"
-                ]
-              },
-              "e7": {
-                "_content": [
-                  "a49d8518310a0065dfa3ba0069364ed23cb3b6"
-                ]
-              },
-              "info": {
-                "_content": []
-              },
-              "pack": {
-                "_content": []
-              }
-            },
-            "refs": {
-              "_content": [],
-              "heads": {
-                "_content": [
-                  "master"
-                ]
-              },
-              "remotes": {
-                "_content": [],
-                "origin": {
-                  "_content": [
-                    "master"
-                  ]
-                }
-              },
-              "tags": {
-                "_content": []
-              }
-            }
-          },
           "testDir": {
             "_content": [
               "some.txt"
