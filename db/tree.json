@@ -1,19 +1,18 @@
 {
-  "_updatedAt": "2021-02-22T19:15:20.888Z",
+  "_updatedAt": "2021-02-22T19:17:04.097Z",
   "c": {
-    "_updatedAt": "2021-02-22T19:15:20.888Z",
+    "_updatedAt": "2021-02-22T19:17:04.097Z",
     "adt": {
-      "_updatedAt": "2021-02-22T19:15:20.888Z",
+      "_updatedAt": "2021-02-22T19:17:04.097Z",
       "fraction": {
         "_isProject": true,
-        "_updatedAt": "2021-02-22T19:15:20.888Z",
+        "_updatedAt": "2021-02-22T19:17:04.097Z",
         "_files": {
           "_content": [
             ".gitignore",
             "CMakeLists.txt",
             "fraction.c",
             "fraction.h",
-            "fraction.zip",
             "main.c"
           ],
           ".git": {
@@ -21,6 +20,7 @@
               "COMMIT_EDITMSG",
               "config",
               "description",
+              "FETCH_HEAD",
               "HEAD",
               "index"
             ],
@@ -55,6 +55,14 @@
                   "_content": [
                     "master"
                   ]
+                },
+                "remotes": {
+                  "_content": [],
+                  "origin": {
+                    "_content": [
+                      "master"
+                    ]
+                  }
                 }
               }
             },
@@ -69,30 +77,25 @@
                   "c26aa0fbcc493e2675b23fdb4ceeff2b7e36a1"
                 ]
               },
+              "58": {
+                "_content": [
+                  "8b30cd513edddfcf502cbee496896fe3f7d7f1"
+                ]
+              },
               "62": {
                 "_content": [
                   "71e727342612c6ae0abe29574d6f10e9a33c41"
+                ]
+              },
+              "71": {
+                "_content": [
+                  "ba7cdb8b2a4613e7ad40fb8c360f0eff461c65"
                 ]
               },
               "_content": [],
               "0d": {
                 "_content": [
                   "0a5a7c1f878713d788ee9f2622cb7a379fa700"
-                ]
-              },
-              "8f": {
-                "_content": [
-                  "3b27cbf51f1054673848a48afb69285df00bd0"
-                ]
-              },
-              "b2": {
-                "_content": [
-                  "c677340871ddff1e86294d33d3d19fec7ee9fe"
-                ]
-              },
-              "b6": {
-                "_content": [
-                  "b5d1d8b9f79317759a914bde4aba5d829ba2aa"
                 ]
               },
               "e2": {
@@ -123,6 +126,14 @@
                 "_content": [
                   "master"
                 ]
+              },
+              "remotes": {
+                "_content": [],
+                "origin": {
+                  "_content": [
+                    "master"
+                  ]
+                }
               },
               "tags": {
                 "_content": []
