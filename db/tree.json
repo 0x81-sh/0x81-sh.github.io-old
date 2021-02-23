@@ -1,9 +1,9 @@
 {
-  "_updatedAt": "2021-02-22T19:48:11.589Z",
+  "_updatedAt": "2021-02-23T07:14:59.248Z",
   "c": {
-    "_updatedAt": "2021-02-22T19:48:11.589Z",
+    "_updatedAt": "2021-02-23T07:14:59.248Z",
     "adt": {
-      "_updatedAt": "2021-02-22T19:39:39.736Z",
+      "_updatedAt": "2021-02-23T07:14:59.248Z",
       "fraction": {
         "_isProject": true,
         "_updatedAt": "2021-02-22T19:39:39.736Z",
@@ -23,6 +23,19 @@
               "_content": []
             }
           }
+        }
+      },
+      "fraction2": {
+        "_isProject": true,
+        "_updatedAt": "2021-02-23T07:14:59.248Z",
+        "_files": {
+          "_content": [
+            ".gitignore",
+            "CMakeLists.txt",
+            "fraction.c",
+            "fraction.h",
+            "main.c"
+          ]
         }
       }
     },
