@@ -1,9 +1,9 @@
 {
-  "_updatedAt": "2021-03-01T18:50:25.968Z",
+  "_updatedAt": "2021-03-03T18:23:27.836Z",
   "c": {
-    "_updatedAt": "2021-03-01T18:50:25.968Z",
+    "_updatedAt": "2021-03-03T18:23:27.836Z",
     "adt": {
-      "_updatedAt": "2021-03-01T18:50:25.968Z",
+      "_updatedAt": "2021-03-03T18:23:27.836Z",
       "fraction": {
         "_isProject": true,
         "_updatedAt": "2021-02-22T19:39:39.736Z",
@@ -62,6 +62,21 @@
             "main.c",
             "temperature.c",
             "temperature.h"
+          ]
+        }
+      },
+      "student_class": {
+        "_isProject": true,
+        "_updatedAt": "2021-03-03T18:23:27.836Z",
+        "_files": {
+          "_content": [
+            ".gitignore",
+            "class.c",
+            "class.h",
+            "CMakeLists.txt",
+            "main.c",
+            "student.c",
+            "student.h"
           ]
         }
       }
