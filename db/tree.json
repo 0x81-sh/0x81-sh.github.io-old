@@ -1,9 +1,9 @@
 {
-  "_updatedAt": "2021-03-03T18:23:27.836Z",
+  "_updatedAt": "2021-03-09T09:45:44.917Z",
   "c": {
-    "_updatedAt": "2021-03-03T18:23:27.836Z",
+    "_updatedAt": "2021-03-09T09:45:44.917Z",
     "adt": {
-      "_updatedAt": "2021-03-03T18:23:27.836Z",
+      "_updatedAt": "2021-03-09T09:45:44.917Z",
       "fraction": {
         "_isProject": true,
         "_updatedAt": "2021-02-22T19:39:39.736Z",
@@ -78,6 +78,88 @@
             "student.c",
             "student.h"
           ]
+        }
+      },
+      "integer_stack": {
+        "_isProject": true,
+        "_updatedAt": "2021-03-09T09:45:44.917Z",
+        "_files": {
+          "_content": [
+            ".gitignore"
+          ],
+          "fraction": {
+            "_content": [
+              ".gitignore",
+              "CMakeLists.txt",
+              "fraction.c",
+              "fraction.h",
+              "main.c"
+            ]
+          },
+          "fraction2": {
+            "_content": [
+              ".gitignore",
+              "CMakeLists.txt",
+              "fraction.c",
+              "fraction.h",
+              "fraction.zip",
+              "main.c"
+            ]
+          },
+          "fraction_calculator": {
+            "_content": [
+              ".gitignore",
+              "CMakeLists.txt",
+              "fraction.c",
+              "fraction.h",
+              "fraction_calculator.zip",
+              "main.c"
+            ]
+          },
+          "integer_stack": {
+            "_content": [
+              "CMakeLists.txt",
+              "main.c",
+              "stack.c",
+              "stack.h"
+            ]
+          },
+          "student_class": {
+            "_content": [
+              ".gitignore",
+              "class.c",
+              "class.h",
+              "CMakeLists.txt",
+              "main.c",
+              "student.c",
+              "student.h",
+              "student_class.zip"
+            ]
+          },
+          "temperature": {
+            "_content": [
+              ".gitignore",
+              "CMakeLists.txt",
+              "main.c",
+              "temperature.c",
+              "temperature.h",
+              "temperature.zip"
+            ]
+          },
+          "wh": {
+            "_content": [
+              "CMakeLists.txt",
+              "main.cpp"
+            ]
+          },
+          "whc": {
+            "_content": [
+              "CMakeLists.txt",
+              "fraction.h",
+              "limits.c",
+              "limits.h"
+            ]
+          }
         }
       }
     },
