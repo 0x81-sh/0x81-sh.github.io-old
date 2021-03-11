@@ -1,9 +1,9 @@
 {
-  "_updatedAt": "2021-03-09T09:47:49.277Z",
+  "_updatedAt": "2021-03-11T22:09:42.026Z",
   "c": {
-    "_updatedAt": "2021-03-09T09:47:49.277Z",
+    "_updatedAt": "2021-03-11T22:09:42.026Z",
     "adt": {
-      "_updatedAt": "2021-03-09T09:47:49.277Z",
+      "_updatedAt": "2021-03-11T22:09:42.026Z",
       "fraction": {
         "_isProject": true,
         "_updatedAt": "2021-02-22T19:39:39.736Z",
@@ -88,6 +88,19 @@
             ".gitignore",
             "CMakeLists.txt",
             "integer_stack.zip",
+            "main.c",
+            "stack.c",
+            "stack.h"
+          ]
+        }
+      },
+      "intStack_b": {
+        "_isProject": true,
+        "_updatedAt": "2021-03-11T22:09:42.026Z",
+        "_files": {
+          "_content": [
+            ".gitignore",
+            "CMakeLists.txt",
             "main.c",
             "stack.c",
             "stack.h"
