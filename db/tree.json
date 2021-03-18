@@ -1,7 +1,7 @@
 {
-  "_updatedAt": "2021-03-18T14:38:17.605Z",
+  "_updatedAt": "2021-03-18T14:40:18.334Z",
   "c": {
-    "_updatedAt": "2021-03-18T14:38:17.605Z",
+    "_updatedAt": "2021-03-18T14:40:18.334Z",
     "adt": {
       "_updatedAt": "2021-03-11T22:09:42.026Z",
       "fraction": {
@@ -171,23 +171,10 @@
       }
     },
     "files": {
-      "_updatedAt": "2021-03-18T14:38:17.605Z",
-      "student-r+w": {
-        "_isProject": true,
-        "_updatedAt": "2021-03-18T14:36:36.553Z",
-        "_files": {
-          "_content": [
-            ".gitignore",
-            "CMakeLists.txt",
-            "main.c",
-            "Student.c",
-            "Student.h"
-          ]
-        }
-      },
+      "_updatedAt": "2021-03-18T14:40:18.334Z",
       "student-r-w": {
         "_isProject": true,
-        "_updatedAt": "2021-03-18T14:38:17.605Z",
+        "_updatedAt": "2021-03-18T14:40:18.334Z",
         "_files": {
           "_content": [
             ".gitignore",
