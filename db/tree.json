@@ -1,5 +1,5 @@
 {
-  "_updatedAt": "2021-05-07T20:13:42.413Z",
+  "_updatedAt": "2021-05-07T20:15:36.614Z",
   "c": {
     "_updatedAt": "2021-04-19T10:39:29.801Z",
     "adt": {
@@ -267,16 +267,15 @@
     }
   },
   "cpp": {
-    "_updatedAt": "2021-05-07T20:13:42.413Z",
+    "_updatedAt": "2021-05-07T20:15:36.614Z",
     "basics": {
-      "_updatedAt": "2021-05-07T20:13:42.413Z",
+      "_updatedAt": "2021-05-07T20:15:36.614Z",
       "date": {
         "_isProject": true,
-        "_updatedAt": "2021-05-07T20:13:42.413Z",
+        "_updatedAt": "2021-05-07T20:15:36.614Z",
         "_files": {
           "_content": [
             ".gitignore",
-            "CMakeLists.txt",
             "Date.cpp",
             "Date.h",
             "main.cpp"
