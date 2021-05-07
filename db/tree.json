@@ -1,5 +1,5 @@
 {
-  "_updatedAt": "2021-04-19T10:39:29.801Z",
+  "_updatedAt": "2021-05-07T20:11:32.336Z",
   "c": {
     "_updatedAt": "2021-04-19T10:39:29.801Z",
     "adt": {
@@ -261,6 +261,25 @@
             "product_csv.h",
             "product_dao.c",
             "product_dao.h"
+          ]
+        }
+      }
+    }
+  },
+  "c++": {
+    "_updatedAt": "2021-05-07T20:11:32.336Z",
+    "basics": {
+      "_updatedAt": "2021-05-07T20:11:32.336Z",
+      "date": {
+        "_isProject": true,
+        "_updatedAt": "2021-05-07T20:11:32.336Z",
+        "_files": {
+          "_content": [
+            ".gitignore",
+            "CMakeLists.txt",
+            "Date.cpp",
+            "Date.h",
+            "main.cpp"
           ]
         }
       }
